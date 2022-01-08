@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sam
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in high frequncy pcb design & codding 
 - 🌱 I’m currently learning pcb design and high requency pcb design 
 - 💞️ I’m looking to collaborate on PCB Design projects 
